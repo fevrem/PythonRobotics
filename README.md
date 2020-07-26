@@ -125,7 +125,6 @@ All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation 
 
 > conda env create -f environment.yml
 
-
 3. Execute python script in each directory.
 
 4. Add star to this repo if you like it :smiley:. 
